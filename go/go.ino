@@ -20,6 +20,7 @@ const unsigned long ids[] = {
   0x833E362E, //yql
   0x9AD208CA, //wyl
   0x8345F89E, //xad
+  0xC56EA4CE, //xad2
   0x833E6BBE, //ycc
   0x79FA9D6E, //hys
   0x833D5DDE, //tw
