@@ -36,6 +36,8 @@ const unsigned long ids[] = {
   0xE4630AD3, //szt
   0xD3EFC3A3, //wz
   0xD3EFD953, //hcx
+  0xC5F4BE3E, //lzl
+  0xC5F62E6E, //hjw
 };
 
 
